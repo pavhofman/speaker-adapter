@@ -1,14 +1,16 @@
+# Speaker Measurement Adapter
+
+## Overview
+* Designed for soundcard balanced inputs
+* Designed to fit [headless audio measurement workstation](https://github.com/pavhofman/measurement-station) but will work with any soundcard
+* Can be switched to unbalanced mode (single-ended SE)
+* Designed to fit FS Futro >=S450 case (inexpensive on ebay)
 
 <img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/front.jpg">
 <img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/back.jpg">
 <img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/front-detail.jpg">
 
-
-
-## Overview
-* Designed for soundcard balanced inputs
-* Designed to complement [headless audio measurement workstation](https://github.com/pavhofman/measurement-station)
-* Can be switched to unbalanced mode (single-ended SE)
+<img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/schematics.png">
 
 ## Speaker Load
 * Load resistors - combination of 4R and 8R 100W resistors (ebay)
@@ -30,13 +32,11 @@ Ranges (voltages for ESI Juli):
 
 ## Soundcard Inputs Protection
 * Serial output resistors 680R
-* Soundcard hot/cold input protection by two internal voltage sources (-12V, +12V)
+* Soundcard hot/cold input protection by two internal voltage sources (2 x 2 A23 batteries)
 * Protection diodes - dual low-leakage diodes BAV199
 * Both sets of protection batteries checked by built-in voltmeter.
 
 
-
-* Designed to fit FS Futro >=S450 case
 
 The adapter in action:
 
@@ -79,7 +79,7 @@ Connected adapter, no input signal, native balanced inputs of ESI.
 <img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/native-bal-adapter-no-input.png">
 
 ## Git repository
-* All Fusion 360, STL, front panel images
+* All Fusion 360 backup files, STLs, front panel text image
 
 ## Conclusion
 The measurements show the adapter does not bring any increase in noise of the measurement setup.
