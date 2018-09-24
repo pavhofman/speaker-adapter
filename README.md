@@ -18,7 +18,7 @@
 * Fans powered by the measurement PC
 
 ## Ranges
-Ranges (voltages for ESI Juli):
+* Ranges (voltages for ESI Juli):
   1. 1:1 (20Vmax balanced / 10Vmax SE) - divider 2 x 75R
   2. 1:3 (60Vmax balanced / 30Vmax SE) - divider 2 x (75R + 150R)
   3. 1:6 (120Vmax balanced - not supported/60Vmax SE) - divider 2 x (75R + 375R)
@@ -32,9 +32,9 @@ Ranges (voltages for ESI Juli):
 
 ## Soundcard Inputs Protection
 * Serial output resistors 680R
-* Soundcard hot/cold input protection by two internal voltage sources (2 x 2 A23 batteries)
+* Soundcard hot/cold input protection by two internal voltage sources (2 x 2pcs A23 batteries)
 * Protection diodes - dual low-leakage diodes BAV199
-* Both sets of protection batteries checked by built-in voltmeter.
+* Both sets of protection batteries checked by built-in voltmeter prior to measuring.
 
 
 
@@ -46,7 +46,7 @@ The adapter in action:
 
 ## Construction
 * Wired, no PCB
-* SMD protection diodes soldered to small universal PCBs placed directly onto TSR sockets
+* SMD protection diodes soldered to small universal PCBs placed directly onto TRS sockets
 
 <img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/inside-back.jpg">
 <img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/inside-front.jpg">
