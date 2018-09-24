@@ -1,4 +1,4 @@
-# Speaker Measurement Adapter
+# Adapter for Measuring Amplifier Speaker Outputs
 
 ## Overview
 * Designed for soundcard balanced inputs
