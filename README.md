@@ -82,4 +82,4 @@ Connected adapter, no input signal, native balanced inputs of ESI.
 * All Fusion 360, STL, front panel images
 
 ## Conclusion
-The adapter does not induce any increase in noise of the measurement setup.
+The measurements show the adapter does not bring any increase in noise of the measurement setup.
