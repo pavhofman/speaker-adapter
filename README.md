@@ -14,7 +14,7 @@
 
 ## Speaker Load
 * Load resistors - combination of 4R and 8R 100W resistors (ebay)
-* Inexpensive CPU heatsinks with fans
+* Old/legacy CPU heatsinks with fans
 * Fans powered by the measurement PC
 
 ## Ranges
