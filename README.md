@@ -36,6 +36,9 @@
 * Protection diodes - dual low-leakage diodes BAV199
 * Both sets of protection batteries checked by built-in voltmeter prior to measuring.
 
+Scope screenshot of protection limiter kicking in for hot and cold lines of one output:
+
+<img src="https://github.com/pavhofman/speaker-adapter/raw/master/images/protection-working-scope-screenshot.png">
 
 
 The adapter in action:
